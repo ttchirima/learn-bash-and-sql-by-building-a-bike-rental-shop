@@ -106,3 +106,4 @@ echo "$(echo ' M e ' | sed -E 's/^ *| *$//g')."
 __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 psql --username=freecodecamp --dbname=bikes
+./bike-shop.sh
